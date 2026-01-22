@@ -1,4 +1,4 @@
-# Assignment 3 — S3 Static Website + CloudFront CDN + Route 53
+# Project 3 — S3 Static Website + CloudFront CDN + Route 53
 
 ## Objective
 
@@ -6,7 +6,7 @@ Create a production-ready static website deployed using AWS managed services.
 
 The website must be hosted on Amazon S3, delivered through CloudFront for global CDN and HTTPS support, and routed via Route 53 DNS.
 
-This assignment focuses on real-world DevOps concepts such as static hosting, content delivery networks, caching, HTTPS, and DNS routing.
+This project focuses on real-world DevOps concepts such as static hosting, content delivery networks, caching, HTTPS, and DNS routing.
 
 ---
 
