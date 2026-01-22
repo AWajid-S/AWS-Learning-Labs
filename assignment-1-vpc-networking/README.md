@@ -1,4 +1,4 @@
-# Assignment 1 — VPC & Networking
+# Project 1 — VPC & Networking
 
 ## Objective
 Design and deploy a custom AWS VPC with public and private subnets, configure secure internet access using an Internet Gateway and NAT Gateway, and deploy EC2 instances.
