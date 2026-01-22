@@ -2,7 +2,7 @@
 
 ## Overview
 
-This assignment focused on building a fully serverless backend using AWS managed services.
+This project focused on building a fully serverless backend using AWS managed services.
 
 The objective was to design an API-driven system without provisioning servers, while applying correct IAM permissions, logging, and security controls.
 
