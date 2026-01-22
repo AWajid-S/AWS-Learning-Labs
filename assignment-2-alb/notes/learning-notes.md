@@ -1,8 +1,8 @@
-# Learning Notes – Assignment 2 (Application Load Balancer)
+# Learning Notes – Project 2 (Application Load Balancer)
 
 ## Overview
 
-This assignment helped me understand how AWS manages incoming traffic in a highly available and secure way rather than sending users directly to EC2 instances.
+This project helped me understand how AWS manages incoming traffic in a highly available and secure way rather than sending users directly to EC2 instances.
 
 I built an architecture where all traffic flows through an Application Load Balancer (ALB), allowing AWS to handle load distribution, health checks, and fault tolerance automatically.
 
@@ -128,7 +128,7 @@ This demonstrated true self-healing infrastructure.
 
 ## Cost Awareness
 
-This assignment highlighted how infrastructure costs can appear quickly.
+This project highlighted how infrastructure costs can appear quickly.
 
 Key cost considerations:
 - Application Load Balancers are billed hourly  
@@ -139,7 +139,7 @@ Key cost considerations:
 
 ## Final Reflection
 
-This assignment helped bridge the gap between theory and real-world cloud architecture.
+This project helped bridge the gap between theory and real-world cloud architecture.
 
 I now clearly understand:
 - why load balancers exist  
