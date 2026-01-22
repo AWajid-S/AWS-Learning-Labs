@@ -1,8 +1,8 @@
-# Learning Notes – Assignment 3 (S3, CloudFront & DNS)
+# Learning Notes – Project 3 (S3, CloudFront & DNS)
 
 ## Overview
 
-This assignment focused on understanding how static websites are hosted using managed cloud services.
+This project focused on understanding how static websites are hosted using managed cloud services.
 
 While the original goal was to deploy a full AWS-native setup using S3, CloudFront, and Route 53, the exercise became a realistic learning experience around DNS ownership, HTTPS certificates, and provider boundaries.
 
@@ -126,7 +126,7 @@ Failure to remove these can lead to ongoing charges.
 
 ## Final Reflection
 
-This assignment provided a strong real-world lesson.
+This project provided a strong real-world lesson.
 
 I learned:
 
