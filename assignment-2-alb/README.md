@@ -1,4 +1,4 @@
-# Assignment 2 — Application Load Balancer (ALB)
+# Project 2 — Application Load Balancer (ALB)
 
 ## Objective
 Deploy two EC2 instances behind an Application Load Balancer (ALB).
