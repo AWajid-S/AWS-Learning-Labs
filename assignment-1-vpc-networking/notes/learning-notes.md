@@ -1,8 +1,8 @@
-# Learning Notes – Assignment 1 (VPC & Networking)
+# Learning Notes – Project 1 (VPC & Networking)
 
 ## Overview
 
-This assignment helped me understand how AWS networking components work together in a real environment rather than just theory.
+This project helped me understand how AWS networking components work together in a real environment rather than just theory.
 
 I built a full VPC architecture from scratch and validated traffic flow between public and private resources.
 
@@ -91,7 +91,7 @@ Always delete NAT Gateways immediately after labs.
 
 ## Final Reflection
 
-This assignment helped connect theory to real-world AWS architecture.
+This project helped connect theory to real-world AWS architecture.
 
 I now clearly understand:
 - how traffic moves inside a VPC
